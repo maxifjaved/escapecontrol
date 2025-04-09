@@ -13,8 +13,6 @@ This directory contains Kanata keyboard remapping configuration files specifical
 - **Caps Lock** acts as:
   - **Escape** when tapped
   - **Vim navigation layer** when held
-- **Windows/Command key** is remapped to **Control**
-- **Control key** is remapped to **Windows/Command**
 
 ### Vim Navigation Layer
 
